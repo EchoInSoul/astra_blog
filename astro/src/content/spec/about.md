@@ -1,49 +1,91 @@
-
-This website is built with the **Astro** framework using the [Mizuki](https://github.com/matsuzaka-yuki/mizuki) theme.
-
-::github{repo="matsuzaka-yuki/Mizuki"}
-
-## 🌟 Theme Features
-
-### 🎨 Design & User Experience
-- **Modern & Elegant Design** - Clean, minimalist interface with beautiful typography
-- **Fully Responsive** - Optimized for all devices from mobile to desktop
-- **Dark/Light Mode** - Automatic theme switching with smooth transitions
-- **Beautiful Typography** - Enhanced readability with JetBrains Mono font
-- **Smooth Animations** - Fluid page transitions and interactive elements
-
-### 🔍 Content & Search
-- **Advanced Search** - Powered by [Pagefind](https://pagefind.app/) for fast, accurate results
-- **Enhanced Markdown** - Extended syntax with code highlighting and math support
-- **Interactive Table of Contents** - Auto-scroll navigation for long articles
-- **RSS Feed Generation** - Stay updated with automatic feed generation
-- **Reading Time Estimation** - Know how long articles take to read
-- **Post Categorization** - Organize content with tags and categories
-
-
-
-### 📱 Special Pages
-- **Anime Tracking Page** - Track your anime watching progress with ratings
-- **Friends Links Page** - Showcase friend websites with beautiful cards
-- **Diary/Moments Page** - Share life moments like social media posts
-- **Archive Page** - Organized timeline view of all posts
-- **About Page** - Customizable personal introduction (this page!)
-
-### 🛠 Technical Features
-- **Enhanced Code Blocks** - Powered by [Expressive Code](https://expressive-code.com/)
-- **Math Support** - LaTeX rendering with KaTeX for mathematical expressions
-- **Image Optimization** - PhotoSwipe gallery with lazy loading
-- **SEO Optimized** - Built-in sitemap and meta tags for better search visibility
-- **Performance Optimized** - Fast loading with caching and optimization
-- **Comment System Ready** - Integration support for Twikoo comments
-
-### 🎯 Advanced Markdown Features
-- **Callouts & Admonitions** - Beautiful info boxes with `> [!NOTE]`, `> [!TIP]`, `> [!WARNING]`
-- **Mathematical Equations** - Write LaTeX math with `$inline$` and `$$block$$` syntax
-- **GitHub Cards** - Embed repository cards with `::github{repo="user/repo"}`
-- **Syntax Highlighting** - Advanced code highlighting with line numbers
-- **Copy Code Buttons** - Easy code copying functionality
-
+---
+title: 关于本站
+published: 2025-11-11
+pinned: true
+description: 一个关于个人成长与技术探索的博客
+tags: [创作]
+category: 创作
+licenseName: "署名 4.0 国际 (CC-BY-4.0)"
+author: "落枫晨"
+sourceLink: "https://www.haoryou.com"
+draft: false
+cover: /img/post/arya/main.webp
+comment: false
 ---
 
-*Built with ❤️ using Astro and inspired by modern web design principles.*
+# 悬浮标签模块
+authorinfo:
+  leftTags:
+    - 善良有爱 ❤️
+    - 勇敢追梦 🌈
+    - 天真烂漫 🌸
+  rightTags:
+    - 热爱生活 🌞
+    - 追寻真理 📚
+    - 壮汉人狠话不多 💢
+  image: /img/about/prefile/pochacco4.avif
+
+# 个人简介
+你好，很高兴认识你👋
+
+我叫 **落枫晨**，目前是一个在读高二学生、博主。我一直在追求成为一名全栈开发者，梦想未来能成为一名优秀的互联网个人开发者、运维工程师、网络架构师，致力于在技术的路上不断前行。
+
+# 我的技能
+### 技能标签
+- Java
+- Docker
+- Node.js
+- Vue.js
+- JavaScript
+- HTML
+- Git
+
+# 生涯模块
+目前，我正在不断努力提升自己的技术和生活技能，虽然还在高中阶段，但我对未来充满了期待。我相信通过不断努力，可以将自己磨砺成一个多面手，既有深度的技术知识，也有广泛的实践经验。
+
+# 我的性格
+我是一个 **INFP-T**，在 16 人格测试中属于“调停者”。我喜欢沉浸在思想的世界中，追求个人价值和内心的平衡。我的性格使我时常在深思与行动之间找到自己的位置，虽然偶尔显得有些不合时宜，但我始终相信每个人都有独特的价值。
+
+# 我的座右铭
+> 雪崩的时候，  
+> 没有一片雪花，是无辜的。
+
+这句话让我时刻提醒自己，不论何时，都要对自己的选择和行为负责任，避免做出后悔的决定。
+
+# 我的特长
+如果你不能明确地定义自己，世界就会用它的标准、期待和偏见来定义你。坚持自己的内心，才是最重要的。
+
+# 游戏爱好
+我热衷于各种不同类型的游戏，尤其是以下几款：
+
+- **香肠派对** - ID：j6sjds
+- **Minecraft** - ID：Multuslove
+- **三角洲行动** - ID：HaoRyouQAQ
+
+# 我的爱好
+除了技术，我还非常喜欢一些影视作品和音乐，以下是我最近的推荐：
+
+### 影视作品
+- [人民的名义](https://movie.douban.com/subject/26727273/)
+- [以法之名](https://movie.douban.com/subject/36657787/)
+- [雄狮少年](https://movie.douban.com/subject/35883131/)
+- [寻梦环游记](https://movie.douban.com/subject/20495023/)
+- [疯狂动物城2](https://movie.douban.com/subject/26817136/)
+
+### 音乐偏好
+- 欧美流行，古典雅颂
+
+# 网站统计
+本网站使用 **51la** 站点统计，感谢大家的访问！
+
+# 我的心路历程
+创建这个网站的初衷，源自于我一直以来对自我探索和成长的渴望。过去的时光里，我曾遇到过一些挑战，也经历过一段深刻的思考与自我调整的过程。那段经历让我意识到，分享不仅仅是传递知识，它更是一个自我反思、激发动力的过程。
+
+我的目标是与大家分享技术探索、生活感悟以及对未来的思考与梦想，期望我的故事能给大家带去启发和温暖。
+
+# 十年之约
+回首向来萧瑟处，归去，也无风雨也无晴。  
+从2023年4月15日开始，至2028年4月15日，我与这个博客的约定永远不变。
+
+# 打赏支持
+感谢大家对我博客的支持，你们的每一份打赏都会让我走得更远！
